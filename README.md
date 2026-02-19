@@ -1,9 +1,5 @@
 # CRS-less MKFHE
 
-<p align="center">
-	<img src="logo.png" width="600px"> 
-</p>
-
 This implementation is a proof-of-concept for an MKFHE scheme in the plain model.
 
 Before you run the code, please make sure to install the HIENAA package (https://github.com/minshinfo/HIENAA.jl).
