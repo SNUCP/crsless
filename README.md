@@ -1,6 +1,6 @@
 # CRS-less MKFHE
 
-This implementation is a proof-of-concept for an MKFHE scheme in the plain model.
+This implementation is a proof-of-concept of the MKFHE scheme from ia.cr/2026/322.
 
 Before you run the code, please make sure to install the HIENAA package (https://github.com/minshinfo/HIENAA.jl).
 To install them, you can open the REPL and type the following commands.
